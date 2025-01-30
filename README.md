@@ -1,7 +1,10 @@
 # Yo there 🗺️, I'm Juan Sánchez
 > #### who am i? lemme introduce my self 🫡
 
-<p style="text-align:center;">
+<p style="display=flex; justify-content=center; align-items=center;">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/juanpsaniba-%23FF0069?style=for-the-badge&logo=instagram">
+
 
 [![Static Badge](https://img.shields.io/badge/Plezzy-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC1nW5nCh521CeDUNMLo5NiQ)
 [![Static Badge](https://img.shields.io/badge/juanpsaniba-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/juanpsaniba/)
