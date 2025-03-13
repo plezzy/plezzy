@@ -40,7 +40,6 @@
 
 **3.** Developing websites for personal projects.
 
-**4.** Building a Herculean body 💀
 
 ### GitHub Stats
 
