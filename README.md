@@ -53,10 +53,10 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [plezzy/labs-arquitectura-computadores](https://github.com/plezzy/labs-arquitectura-computadores)<br>
 2. ⬆️ Pushed 1 commit(s) to [plezzy/labs-arquitectura-computadores](https://github.com/plezzy/labs-arquitectura-computadores)<br>
-3. ⬆️ Pushed 1 commit(s) to [plezzy/prog-basica-ejercicios-guia](https://github.com/plezzy/prog-basica-ejercicios-guia)<br>
+3. ⬆️ Pushed 1 commit(s) to [plezzy/labs-arquitectura-computadores](https://github.com/plezzy/labs-arquitectura-computadores)<br>
 4. ⬆️ Pushed 1 commit(s) to [plezzy/prog-basica-ejercicios-guia](https://github.com/plezzy/prog-basica-ejercicios-guia)<br>
-5. ⬆️ Pushed 1 commit(s) to [plezzy/labs-arquitectura-computadores](https://github.com/plezzy/labs-arquitectura-computadores)<br>
+5. ⬆️ Pushed 1 commit(s) to [plezzy/prog-basica-ejercicios-guia](https://github.com/plezzy/prog-basica-ejercicios-guia)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 7th, 2025, 12:52:58 PM
+Last Updated: Wednesday, October 8th, 2025, 1:53:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
