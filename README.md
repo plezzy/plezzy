@@ -53,10 +53,10 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [plezzy/prog-basica-ejercicios-guia](https://github.com/plezzy/prog-basica-ejercicios-guia)<br>
 2. ⬆️ Pushed undefined commit(s) to [plezzy/prog-basica-ejercicios-guia](https://github.com/plezzy/prog-basica-ejercicios-guia)<br>
-3. ⬆️ Pushed undefined commit(s) to [plezzy/labs-arquitectura-computadores](https://github.com/plezzy/labs-arquitectura-computadores)<br>
-4. ⬆️ Pushed undefined commit(s) to [plezzy/labs-arquitectura-computadores](https://github.com/plezzy/labs-arquitectura-computadores)<br>
-5. ⬆️ Pushed undefined commit(s) to [plezzy/labs-arquitectura-computadores](https://github.com/plezzy/labs-arquitectura-computadores)<br>
+3. ⬆️ Pushed undefined commit(s) to [plezzy/prog-basica-ejercicios-guia](https://github.com/plezzy/prog-basica-ejercicios-guia)<br>
+4. ⬆️ Pushed undefined commit(s) to [plezzy/prog-basica-ejercicios-guia](https://github.com/plezzy/prog-basica-ejercicios-guia)<br>
+5. ⬆️ Pushed undefined commit(s) to [plezzy/prog-basica-ejercicios-guia](https://github.com/plezzy/prog-basica-ejercicios-guia)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 6th, 2025, 2:03:23 AM
+Last Updated: Thursday, November 6th, 2025, 12:54:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
