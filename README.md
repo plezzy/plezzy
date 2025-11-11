@@ -52,11 +52,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [plezzy/labs-arquitectura-computadores](https://github.com/plezzy/labs-arquitectura-computadores)<br>
-2. ⬆️ Pushed undefined commit(s) to [plezzy/prog-basica-ejercicios-guia](https://github.com/plezzy/prog-basica-ejercicios-guia)<br>
+2. ⬆️ Pushed undefined commit(s) to [plezzy/labs-arquitectura-computadores](https://github.com/plezzy/labs-arquitectura-computadores)<br>
 3. ⬆️ Pushed undefined commit(s) to [plezzy/prog-basica-ejercicios-guia](https://github.com/plezzy/prog-basica-ejercicios-guia)<br>
 4. ⬆️ Pushed undefined commit(s) to [plezzy/prog-basica-ejercicios-guia](https://github.com/plezzy/prog-basica-ejercicios-guia)<br>
 5. ⬆️ Pushed undefined commit(s) to [plezzy/prog-basica-ejercicios-guia](https://github.com/plezzy/prog-basica-ejercicios-guia)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 10th, 2025, 12:55:57 PM
+Last Updated: Tuesday, November 11th, 2025, 2:04:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
